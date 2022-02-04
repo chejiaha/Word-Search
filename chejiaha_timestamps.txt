@@ -1,0 +1,16 @@
+Video timestamps:
+00:00 introduction
+00:40 main method explaination
+01:40 initialize method
+02:35 draw board method
+03:55 draw board button method
+04:45 search word button method
+06:45 checkbox handler method
+09:15 skin layout handler methods in main
+09:30 reverse class
+10:50 abstract search class
+13:58 virtual methods explaination
+14:35 child classes 
+17:41 layout xaml
+18:00 program demo
+
